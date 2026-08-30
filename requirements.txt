@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+pyarrow
+datasets
